@@ -1,3 +1,4 @@
+import type { JSX } from "react";
 import { skills } from "../data";
 import Reveal from "../Features/Reveal";
 import SectionHeading from "./SectionHeading";
